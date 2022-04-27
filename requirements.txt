@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+fastapi-jwt-auth
+peewee
+celery
+pymysql
+requests
+pytest
